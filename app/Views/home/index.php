@@ -9,7 +9,7 @@ echo view('layouts/header');
                     <div class="text-container">
                         <div class="section-title" style="color: #6198ff; background-color: #d1d4fc;">UDUMBARA INFORMATIKA</div>
                         <h1 class="h1-large">UDUMBARA INFORMATIKA</h1>
-                        <p class="p-large">Tagline / keterangan nantinya</p>
+                        <p class="p-large">Membantu bisnismu untuk melangkah lebih maju dengan bantuan website atau aplikasi yang mudah digunakan sesuai kebutuhan bisnis Anda.</p>
                         <a class="btn-solid-lg" href="#services" style="background-color: ;">Offered services</a>
                         <a class="quote" href="#contact"><i class="fas fa-paper-plane"></i>Get quote</a>
                     </div> <!-- end of text-container -->
